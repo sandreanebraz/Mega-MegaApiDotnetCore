@@ -13,16 +13,16 @@
   >
   <br />
   <a
-    href="https://github.com/felipeAguiarCode/MegaApiDotnetCore/actions/workflows/build.yml"
+    href="https://github.com/sandreanebraz/Mega-MegaApiDotnetCore/actions/workflows/build.yml"
   >
     <img
-      src="https://github.com/felipeAguiarCode/MegaApiDotnetCore/actions/workflows/build.yml/badge.svg"
+      src="https://github.com/sandreanebraz/Mega-MegaApiDotnetCore/actions/workflows/build.yml/badge.svg"
       alt=""
     />
   </a>
-  <a href="https://github.com/felipeAguiarCode/MegaApiDotnetCore/releases/latest">
+  <a href="https://github.com/sandreanebMega-MegaApiDotnetCore/releases/latest">
     <img
-      src="https://img.shields.io/github/v/release/felipeAguiarCode/MegaApiDotnetCore"
+      src="https://img.shields.io/github/v/release/sandreanebraz/Mega-MegaApiDotnetCore"
       alt="Latest Release"
     />
   </a>
@@ -146,5 +146,5 @@ src
 
 ## License This software is licensed under the terms of the [MIT]
 
-⌨️ FelipeAguiar -
-[Github](https://github.com/felipeAguiarCode)
+⌨️ Sandreane Braz -
+[Github](https://github.com/sandreanebraz)
